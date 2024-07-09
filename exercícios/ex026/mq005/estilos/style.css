@@ -20,6 +20,19 @@ header > h1 {
     text-align: center;
 }
 
+i#burguer {
+    background-color: rgb(53, 53, 53);
+    color: white;
+    display: block;
+    text-align: center;
+    padding: 10px;
+}
+
+i#burguer:hover {
+    background-color: white;
+    color: black;
+}
+
 menu {
     display: block;
 }
